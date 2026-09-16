@@ -1,0 +1,5 @@
+data/uci-student-performance/* -text
+raw/uci-student-performance/* -text
+licenses/* -text
+*.md text eol=lf
+SHA256SUMS text eol=lf
